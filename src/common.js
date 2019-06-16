@@ -1,0 +1,1 @@
+export const commonMsg='common_file';
